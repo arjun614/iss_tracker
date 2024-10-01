@@ -3,7 +3,7 @@ from datetime import datetime, timezone
 import smtplib
 
 my_email = 'maheshwariarjun04@gmail.com'
-my_password = 'zpvtzwfztshmutpy'
+my_password = ''
 
 
 MY_LAT = 51.507351  
